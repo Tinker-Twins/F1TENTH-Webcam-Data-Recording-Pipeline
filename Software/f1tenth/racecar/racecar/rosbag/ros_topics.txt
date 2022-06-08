@@ -1,0 +1,5 @@
+rostopic hz </topic/name>
+
+/usb_cam/image_raw			Freq: 15.04 Hz
+/vesc/commands/motor/speed		Freq: 153.8 Hz
+/vesc/commands/servo/position		Freq: 75.00 Hz
