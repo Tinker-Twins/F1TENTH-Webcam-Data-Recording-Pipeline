@@ -22,7 +22,7 @@
 
 ## USAGE
 
-- **Teleoperation:** Launch the `teleop.launch` file. Refer [this document](https://github.com/Tinker-Twins/F1TENTH/blob/main/Vehicle%20Software/f1tenth/racecar/racecar/launch/teleop_readme.txt) for detailed information.
+- **Teleoperation:** Launch the `teleop.launch` file. Refer [this document](https://github.com/Tinker-Twins/F1TENTH-Webcam-Data-Recording-Pipeline/blob/main/Vehicle%20Software/f1tenth/racecar/racecar/launch/teleop_readme.txt) for detailed information.
   ```bash
   $ roslaunch racecar teleop.launch
   ```
