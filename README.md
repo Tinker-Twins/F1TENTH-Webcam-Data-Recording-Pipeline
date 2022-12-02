@@ -12,7 +12,7 @@
     ```
 2. Move the `f1tenth` directory to the source space (`src`) of the Catkin workspace on the vehicle computer.
     ```bash
-    $ mv ~/ROS\ Package/f1tenth ~/catkin_ws/src/
+    $ mv ~/Vehicle\ Software/f1tenth ~/catkin_ws/src/
     ```
 3. Build the packages.
     ```bash
